@@ -1,4 +1,13 @@
 title: "Huy Vo"
-description: "Welcome!"
+description: "Aspiring Software Engineer & Data Analyst"
+baseurl: "/PortfolioSite"
+
+kramdown:
+  input: GFM                    
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true        
+      wrap: true
 
 theme: jekyll-theme-hacker
