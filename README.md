@@ -3,7 +3,9 @@
 
 - I love to look through the NHTSA APIs and database stuff related to automotive to see what is going on with government side of automotive.
 
-- I like to collect figurines and plush of game franchises.
+- I like to collect figurines and plush of game franchises. I really like planes.
+    
+    ![Ace Combat 7](https://i.redd.it/abh0a8f1pa5z.png)
 
 - I mainly do programming with Python currently but I do know Java, JavaScript, and C
 
@@ -18,5 +20,5 @@ The project I am working on is a simple 2D platformer game using the GODOT engin
 
 [Link to repository of project](https://github.com/huybaovo/GVSU-CIS641-Crab-Rave)
 
-### Heres a crab to motivate!
+## Heres a crab to motivate!
 ![Crab Hands Up](https://npr.brightspotcdn.com/legacy/sites/wcai/files/201309/blue_crab.jpg)
