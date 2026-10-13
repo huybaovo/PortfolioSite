@@ -18,4 +18,5 @@ The project I am working on is a simple 2D platformer game using the GODOT engin
 
 [Link to repository of project](https://github.com/huybaovo/GVSU-CIS641-Crab-Rave)
 
+### Heres a crab to motivate!
 ![Crab Hands Up](https://npr.brightspotcdn.com/legacy/sites/wcai/files/201309/blue_crab.jpg)
