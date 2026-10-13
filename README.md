@@ -10,10 +10,14 @@
 - I mainly do programming with Python currently but I do know Java, JavaScript, and C
 
 # Technical Background
-I have a solid programming background as I know how to program in several different langauges but I am mainly using Python. I have done software projects before for web, mobile, and PC projects for many courses but no industry experience. I do know how to use some software testing tools like playwright and have experience with unit testing for software. 
+I have a solid programming background as I know how to program in several different langauges but I am mainly using Python. I have done software projects before for web, mobile, and PC projects for many courses but no industry experience. I do know how to use some software testing tools like playwright and have experience with unit testing for software.
+
+***
 
 # The Meme
 ![Meme](https://images.meme-arsenal.com/0417d9305a0f5fe19ca238833812c6c1.jpg)
+
+***
 
 # Term Project
 The project I am working on is a simple 2D platformer game using the GODOT engine. GODOT is an interesting open source engine that recently gained more attention in the game development field and I wanted to explore the the ins and outs of what the engine has to offer versus other popular game development engines like Unity or Unreal. Additionally in creation of the game, I tried to develop following SCRUM and trying the best to mimic sprints as a one man group.
