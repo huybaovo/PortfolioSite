@@ -3,7 +3,7 @@
 
 - I love to look through the NHTSA APIs and database stuff related to automotive to see what is going on with government side of automotive.
 
-- I like to collect figurines and plush of game franchises. I really like planes.
+- I like to collect figurines and plush of game franchises. I really like **planes**.
     
     ![Ace Combat 7](https://i.redd.it/abh0a8f1pa5z.png)
 
