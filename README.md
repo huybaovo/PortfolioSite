@@ -16,7 +16,6 @@ I have a solid programming background as I know how to program in several differ
 # Term Project
 The project I am working on is a simple 2D platformer game using the GODOT engine. GODOT is an interesting open source engine that recently gained more attention in the game development field and I wanted to explore the the ins and outs of what the engine has to offer versus other popular game development engines like Unity or Unreal. Additionally in creation of the game, I tried to develop following SCRUM and trying the best to mimic sprints as a one man group.
 
-## Link to Term Project
 [Link to repository of project](https://github.com/huybaovo/GVSU-CIS641-Crab-Rave)
 
 ![Crab Hands Up](https://npr.brightspotcdn.com/legacy/sites/wcai/files/201309/blue_crab.jpg)
